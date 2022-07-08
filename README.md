@@ -1,6 +1,1 @@
-streamlit
-matplotlib
-seaborn
-wordcloud
-pandas
-emoji
+#Whatsapp-Chat-Analyser
